@@ -1,4 +1,5 @@
-streamlit
-streamlit-aggrid==0.2.2-2
-altair < 5
-click==8
+streamlit==1.22.0
+scikit-learn==1.2.2
+numpy==1.24.3
+pandas==1.5.1
+altair<5
